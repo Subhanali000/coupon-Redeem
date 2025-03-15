@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://coupon-redeem-iota.vercel.app';
+const API_URL = 'https://coupon-backend-6us5.onrender.com';
 
 export const getRandomCoupon = async () => {
     try {
